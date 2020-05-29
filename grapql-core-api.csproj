@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>grapql_core_api</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="graphiql" Version="2.0.0" />
+    <PackageReference Include="graphql" Version="2.4.0" />
+  </ItemGroup>
+
+
+</Project>
